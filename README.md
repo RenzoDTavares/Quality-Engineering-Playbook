@@ -43,10 +43,3 @@ While the principles in this playbook are language-agnostic, the architectural p
 * **API & State Management:** `Requests` (For test data generation and state injection)
 * **Pipeline Integration:** `GitHub Actions`
 
----
-
-## 🤝 Contributing
-
-This Playbook is treated as a living document. Engineering teams are encouraged to open PRs to propose adjustments to our tech stack or testing methodologies via our QA Guild review process. 
-
-*Designed and maintained by Senior Quality Engineering Leadership to establish the gold standard in software reliability.*
