@@ -2,11 +2,6 @@
 
 > A comprehensive, open-source framework defining the standards, architecture, and cultural mindset required to scale Quality Engineering in high-performance delivery teams.
 
-[![Quality Standard](https://img.shields.io/badge/Quality-Strategic-blue.svg)](#)
-[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Pytest%20%7C%20Selenium-success.svg)](#)
-[![Methodology](https://img.shields.io/badge/Methodology-Risk--Based%20Testing-orange.svg)](#)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-Shift--Left-purple.svg)](#)
-
 ## 📌 Executive Summary
 
 Quality is not a bottleneck; it is a competitive advantage. This Playbook outlines the methodology used to transition Quality Assurance from a manual, end-of-cycle inspection phase into a continuous, data-driven **Quality Engineering** practice. 
